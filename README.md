@@ -8,7 +8,7 @@ It serves as my comprehensive record of learning computer science fundamentals �
 ## 📂 Structure
 
 - **`Problem Sets/`** — Contains my solutions to weekly assignments
-- **`Notes/`** — Markdown lecture notes originally taken in [Obsidian](https://obsidian.md)
+
 ---
 
 ## 🛠 Tools & Environment
